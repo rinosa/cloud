@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037524779591",
+    "project_id": "rino-7c9de",
+    "storage_bucket": "rino-7c9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037524779591:android:1b0b5881e13c8e42e12762",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037524779591-qvqe3dglnh2tt68m19ip7huq0d1eej2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAuvxcFq70PM7XwaUtaUXFpL4RgAkvPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037524779591-qvqe3dglnh2tt68m19ip7huq0d1eej2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
